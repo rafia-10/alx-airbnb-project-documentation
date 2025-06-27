@@ -1,11 +1,11 @@
 # 🏡 Airbnb Clone Backend – Requirements
 
-## 📌 Objective
+##  Objective
 Document the technical and functional requirements for core backend features of the Airbnb Clone project.
 
 ---
 
-## 1. 🔐 User Authentication
+## 1. User Authentication
 
 ### ✅ Functional Requirements
 - Users can register as `guest` or `host`.
